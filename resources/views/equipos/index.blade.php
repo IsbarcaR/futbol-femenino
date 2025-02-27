@@ -10,7 +10,7 @@
     </svg>
     {{ session('mensaje') }}
 </div>
-
+<h1>HOLAaaaaaaaaaa</h1>
 <!-- Script para desaparecer el toast después de 3 segundos -->
 <script>
     setTimeout(() => {
